@@ -27,6 +27,6 @@ der builds **einmalig** via adb auf das Gerät gespielt werden muss.
 ## Backup wiederherstellen:
 
 1. `adb reboot recovery`
-1. `adb restore -f nexus5x.backup`
+1. `adb restore nexus5x.backup`
 
 
