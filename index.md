@@ -6,7 +6,7 @@ Razorlove stellt aber weiter builds zur Verfügung. Siehe [Post auf XDA](https:/
 inoffiziellen Builds zu verlieren, gibt es eine Migration von Razorlove, welche vor dem Einspielen 
 der builds **einmalig** via adb auf das Gerät gespielt werden muss.
 
-**Es wird außerdem empfholen vorher ein Backup zu machen!**
+**Es wird außerdem empfohlen vorher ein Backup zu machen!**
 
 ## Neustes Backup einspielen
 
