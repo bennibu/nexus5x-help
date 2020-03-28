@@ -1,4 +1,4 @@
-# Nexus 5X Hilfe
+# Neue Updates für dein Nexus 5x
 
 Mit dem Ende von Lineage OS für Android Oreo (15.1 bzw 8.1) gibt es keine offiziellen Builds mehr für das Nexus 5X. 
 
