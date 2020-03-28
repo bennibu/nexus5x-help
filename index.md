@@ -8,7 +8,7 @@ der builds **einmalig** via adb auf das Gerät gespielt werden muss.
 
 **Es wird außerdem empfohlen vorher ein Backup zu machen!**
 
-## Neustes Backup einspielen
+## Neustes Update einspielen
 
 1. Neustes [lineage build](https://androidfilehost.com/?w=files&flid=306263) und [Migration](https://androidfilehost.com/?fid=962187416754465877) runterladen
 1. In Recovery Mode wechseln: adb reboot recovery
