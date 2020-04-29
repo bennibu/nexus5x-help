@@ -12,6 +12,7 @@ der builds **einmalig** via adb auf das Gerät gespielt werden muss.
 
 1. Neustes [lineage build](https://androidfilehost.com/?w=files&flid=306263) und [Migration](https://androidfilehost.com/?fid=962187416754465877) runterladen
 1. In Recovery Mode wechseln: `adb reboot recovery`
+1. Evtl. Passwort für Verschlüsselung eingeben
 1. Auf “Advanced” -> “ADB Sideload” gehen und “Swipe to Start Sideload” wischen
 1. **(nur das erste mal)** Migration einspielen: `adb sideload lineage-migration-official-to-unofficial.zip`
 1. Mit “Back” zurück gehen und erneut ADB Sideload starten
