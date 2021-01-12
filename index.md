@@ -10,7 +10,7 @@ der builds **einmalig** via adb auf das Gerät gespielt werden muss.
 
 ## Neustes Update einspielen
 
-1. Neustes [lineage build](https://androidfilehost.com/?w=files&flid=306263) und [Migration](https://androidfilehost.com/?fid=962187416754465877) runterladen
+1. Neustes [lineage build](https://sourceforge.net/projects/razorloves-lineage/files/bullhead/) und [Migration](https://androidfilehost.com/?fid=962187416754465877) runterladen
 1. In Recovery Mode wechseln: `adb reboot recovery`
 1. Evtl. Passwort für Verschlüsselung eingeben
 1. Auf “Advanced” -> “ADB Sideload” gehen und “Swipe to Start Sideload” wischen
